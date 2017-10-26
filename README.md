@@ -55,9 +55,11 @@ Thanks ...
 
 Numpang endorse dulu bro :D
 
-<a href='http://renseo.blogspot.com/2017/03/discoffeery-kopi-hijau-asli.html'>Discoffeery, Kopi Hijau 100% ASLI</a>
+<a href='https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
+'>jobsmart.co.id : Situs informasi lowongan kerja terbaru di indonesia</a>
 
-<a href='http://renseo.blogspot.com/2017/03/discoffeery-kopi-hijau-asli.html'>http://renseo.blogspot.com/2017/03/discoffeery-kopi-hijau-asli.html</a>
+<a href='https://renseo.blogspot.com/2017/10/jobsmartcoid-situs-informasi-lowongan-kerja.html'>https://renseo.blogspot.com/2017/10/jobsmartcoid-situs-informasi-lowongan-kerja.html</a>
 
-<a href='https://renaldirey.id/discoffeery-kopi-hijau-100-asli/'>https://renaldirey.id/discoffeery-kopi-hijau-100-asli/</a>
-....
+<a href='https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
+'>https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
+</a>
