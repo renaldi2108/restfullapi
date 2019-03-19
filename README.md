@@ -1,7 +1,5 @@
 # Web Service with Authentication From JWT(JSON Web Token)
 
-Website: https://renaldirey.id || http://renseo.blogspot.com/
-
 Use package: jsonwebtoken, mongoose, express, morgan, dan body-parser.
 
 Note:
@@ -45,6 +43,4 @@ Jika ada penjelasan yang kurang jelas untuk kamu, silahkan mention pada akun twi
 Thanks ...
 
 
-Numpang endorse dulu bro :D
-
-<a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli dan Pakar SEO'>Ahli dan Pakar SEO</a>
+Abaikan: <a href="https://seo.renaldirey.id/">SEO Service</a>, <a href="https://seo.renaldirey.id/">Jasa SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Praktisi SEO'>Praktisi SEO</a>
