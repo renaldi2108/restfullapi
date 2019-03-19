@@ -1,16 +1,8 @@
 # Web Service with Authentication From JWT(JSON Web Token)
 
-Author: Renaldi | <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli dan Pakar SEO'>Ahli dan Pakar SEO</a>
-
 Website: https://renaldirey.id || http://renseo.blogspot.com/
 
 Use package: jsonwebtoken, mongoose, express, morgan, dan body-parser.
-
-Facebook: fb.com/javier.renaldi.3
-
-Tweet: twitter.com/R21_Zoldyck
-
-Instagram: instagram.com/rencode2198
 
 Note:
 
@@ -55,11 +47,4 @@ Thanks ...
 
 Numpang endorse dulu bro :D
 
-<a href='https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
-'>jobsmart.co.id : Situs informasi lowongan kerja terbaru di indonesia</a>
-
-<a href='https://renseo.blogspot.com/2017/10/jobsmartcoid-situs-informasi-lowongan-kerja.html'>https://renseo.blogspot.com/2017/10/jobsmartcoid-situs-informasi-lowongan-kerja.html</a>
-
-<a href='https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
-'>https://renaldirey.id/jobsmart-situs-informasi-lowongan-kerja/
-</a>
+<a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli SEO'>Ahli SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Pakar SEO'>Pakar SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Master SEO'>Master SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Mastah SEO'>Mastah SEO</a>, <a href='https://renaldirey.id/ahli-dan-pakar-seo-indonesia/' title='Ahli dan Pakar SEO'>Ahli dan Pakar SEO</a>
